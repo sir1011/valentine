@@ -70,7 +70,7 @@
         });
 
         yesBtn.addEventListener("click", () => {
-            alert("Yay! I knew it! ❤️");
+            alert("yessssss love youuu ji! ❤️");
             finalGif.classList.remove("hidden");
         });
     </script>
