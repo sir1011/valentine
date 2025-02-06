@@ -56,7 +56,7 @@
         <button id="yesBtn">Yes</button>
         <button id="noBtn">No</button>
     </div>
-    <img src="https://tenor.com/view/anime-kiss-gif-24306555" class="gif hidden" id="finalGif" alt="Happy Love GIF">
+    <img src="https://tenor.com/bN9pn.gif" class="gif hidden" id="finalGif" alt="Happy Love GIF">
 
    <script>
         let yesBtn = document.getElementById("yesBtn");
