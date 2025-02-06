@@ -50,13 +50,13 @@
 </head>
 <body>
     <h1>Will You Be My Valentine, Babby Ji? ❤️</h1>
-    <img src="https://media.giphy.com/media/3oz8xZvvOZRmKay4xy/giphy.gif" class="gif" alt="Cute Love GIF">
+    <img src="https://media.tenor.com/25ykirk3P4YAAAAM/oz-oz-yarimasu.gif" class="gif" alt="Cute Love GIF">
     
   <div class="buttons">
         <button id="yesBtn">Yes</button>
         <button id="noBtn">No</button>
     </div>
-    <img src="https://media.giphy.com/media/JUwliZWcyDmTQZ7m9L/giphy.gif" class="gif hidden" id="finalGif" alt="Happy Love GIF">
+    <img src="https://tenor.com/view/anime-kiss-gif-24306555" class="gif hidden" id="finalGif" alt="Happy Love GIF">
 
    <script>
         let yesBtn = document.getElementById("yesBtn");
